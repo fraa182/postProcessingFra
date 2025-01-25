@@ -1,0 +1,3 @@
+theta = atan2(z,y);
+vr = y_velocity*cos(theta) + z_velocity*sin(theta);
+vt = z_velocity*cos(theta) - y_velocity*sin(theta);
